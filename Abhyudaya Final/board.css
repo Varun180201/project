@@ -319,6 +319,10 @@ position: fixed;
   margin-top:7%;
 }
 
+.row{
+  max-width: 100%;
+}
+
 .dignitary h1{
   text-align: center;
   font: normal normal bold 55px Poppins;
