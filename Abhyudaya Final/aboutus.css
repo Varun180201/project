@@ -697,6 +697,16 @@ footer .bottom-details .bottom_text{
 
 /*vision*/
 
+@media only screen and (max-width: 1080px){
+  #col1 {
+    display: block;
+    float: left;
+    width: 100%;
+    padding: 0 10px;
+    margin-bottom: 20px;
+}
+}
+
 .vision-sec {
     margin: 50px 0;
 }
@@ -718,9 +728,12 @@ footer .bottom-details .bottom_text{
 
 @media only screen and (min-width: 768px){
 .span_4 {
-    width: 33.3333333333%;
+    width: 100%;
+   
 }
 }
+
+
 
 .clr:after, .col:after, .container:after, .group:after, .row:after {
     content: "";
@@ -728,10 +741,10 @@ footer .bottom-details .bottom_text{
     clear: both;
 }
 
-.col {
+.col1 {
     display: block;
     float: left;
-    width: 100%;
+    width: 33.33%;
     padding: 0 10px;
     margin-bottom: 20px;
 }
