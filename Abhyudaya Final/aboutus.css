@@ -858,15 +858,6 @@ ol, ul {
     flex-wrap: wrap;
     margin: 0;
 }
-
-.chairman-img img {
-    display: block;
-    width: 100%;
-    height: auto;
-    
-}
-
-
 .row {
     padding-bottom: 0;
     margin: 0 -10px;
@@ -887,8 +878,13 @@ ol, ul {
   .span_6 {
       width: 50%;
   }
+
 }
 
+.chairman-img img {
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
 
