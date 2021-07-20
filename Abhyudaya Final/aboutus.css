@@ -496,7 +496,7 @@ footer .content .link-boxes .box{
   color: #fff;
   font-size: 16px;
 }
-.link-boxes .input-box input[type="button"]{
+.link-boxes .input-box input[type="submit"]{
   background: black;
   color: #fff;
   border: none;
@@ -507,7 +507,7 @@ footer .content .link-boxes .box{
   cursor: pointer;
   transition: all 0.4s ease;
 }
-.input-box input[type="button"]:hover{
+.input-box input[type="submit"]:hover{
   opacity: 1;
 }
 footer .bottom-details{
