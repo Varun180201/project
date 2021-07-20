@@ -376,7 +376,7 @@ text-transform: uppercase;
   font-family: poppins;
   font-size: 25px;
   color: #818181;
-  
+  text-transform: uppercase;
 }
 
 .teacher-coordinators h3{
@@ -384,7 +384,6 @@ text-transform: uppercase;
 font-family: poppins;
 font-size: 25px;
 color: #818181;
-text-transform: uppercase;
 }
 
 .dignitary p {
