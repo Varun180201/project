@@ -878,14 +878,13 @@ ol, ul {
   .span_6 {
       width: 50%;
   }
-
 }
-
 
 }
 .chairman-img img {
     display: block;
     width: 100%;
+    height: auto;
     
 }
 
